@@ -1,4 +1,19 @@
 {
+  "name": "tabletop-wargaming/profile-stats",
+  "type": "library",
+  "description": "Value object-based library for wargaming profiles",
+  "keywords": ["wargaming"],
+  "homepage": "https://github.com/tabletop-wargaming/profile-stats",
+  "license": "MIT",
+  "authors": [
+      {
+          "name": "Barney Hanlon",
+          "email": "barney@shrikeh.net"
+      }
+  ],
+  "require": {
+      "php": ">=5.3",
+  },
   "require-dev": {
     "squizlabs/php_codesniffer": "^2.3",
     "escapestudios/symfony2-coding-standard": "~2.0",

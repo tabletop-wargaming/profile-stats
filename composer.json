@@ -1,0 +1,15 @@
+{
+  "require-dev": {
+    "squizlabs/php_codesniffer": "^2.3",
+    "escapestudios/symfony2-coding-standard": "~2.0",
+    "phpspec/phpspec": "^2.5"
+  },
+  "config": {
+      "bin-dir": "bin"
+  },
+  "autoload": {
+      "psr-4": {
+          "TabletopWargaming\\Profile\\": "src"
+      }
+  }
+}

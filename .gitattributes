@@ -1,0 +1,4 @@
+# Remove unnecessary files on git export
+spec export-ignore
+bin export-ignore
+phpspec.yml export-ignore

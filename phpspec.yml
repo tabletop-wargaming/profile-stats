@@ -1,0 +1,8 @@
+---
+suites:
+  default:
+    namespace: TabletopWargaming\Profile
+    psr4_prefix: TabletopWargaming\Profile
+    spec_prefix: spec
+    src_path: %paths.config%/src
+...
